@@ -1,0 +1,14 @@
+.navigationbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  height: 8%;
+  width: -webkit-fill-available;
+  background: rgb(30 41 59);
+}
+.navigationbar__logo {
+  margin-left: 2rem;
+  width: 30px;
+  height: 30px;
+}

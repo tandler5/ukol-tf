@@ -1,0 +1,19 @@
+.content {
+  background: #f3f3f3;
+  height: -webkit-fill-available;
+  flex: 1 1 0%;
+  padding: 4rem 2.5rem 4rem 2.5rem;
+  overflow: scroll;
+}
+.content__title {
+  margin-bottom: 1.5rem;
+  font-size: 2.25rem;
+  font-weight: 600;
+  text-align: center;
+}
+.content__table {
+  padding: 2.5rem;
+  background: #fff;
+  filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04))
+    drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+}
