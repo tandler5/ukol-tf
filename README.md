@@ -1,3 +1,3 @@
-# Ukol Techfides
+# Ukol TechFides
 
 =>npm install => npm start
